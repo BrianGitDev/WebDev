@@ -35,7 +35,7 @@ header {
 }
 
 header .jumbotron {
-  height: 80vh;
+  height: 70vh;
   margin-bottom: 0;
   background: url(../images/misc/imgBrian.jpg) no-repeat 100% 5%;
   -webkit-background-size: cover;
@@ -216,7 +216,7 @@ header .navbar-inverse .navbar-nav>li>a {
   display: block;
   padding: 5px;
   float: left;
-  width: 33.33%;
+  width: 1.33%;
   border-radius: 10px;
 }
 
